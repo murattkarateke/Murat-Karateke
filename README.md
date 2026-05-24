@@ -1,75 +1,107 @@
-# 👋 Murat Karateke
+# Murat Karateke
 
-## 🛡️ Cybersecurity Enthusiast | SOC Analyst in Progress  
-## 🛡️ Siber Güvenlik Meraklısı | SOC Analisti Yolunda
+## Cybersecurity Portfolio | Siber Güvenlik Portföyü
 
----
+SOC Analyst in Progress focused on SIEM, Threat Detection, Log Analysis, Linux Security, Active Directory, and Detection Engineering.
 
-## 🎯 About Me | Hakkımda
-
-### 🇬🇧 English
-I am a cybersecurity enthusiast focused on building hands-on labs in Linux security, log analysis, and threat detection.  
-I practice real-world attack scenarios and develop detection and response strategies using system logs and security tools.
-
-### 🇹🇷 Türkçe
-Linux güvenliği, log analizi ve tehdit tespiti alanlarında pratik lab çalışmaları yapan bir siber güvenlik meraklısıyım.  
-Gerçek dünya saldırı senaryolarını simüle ederek tespit ve müdahale süreçleri üzerine çalışıyorum.
+SIEM, Threat Detection, Log Analysis, Linux Security, Active Directory ve Detection Engineering alanlarına odaklanan SOC Analyst adayı.
 
 ---
 
-## 🚀 Featured Projects | Öne Çıkan Projeler
+## About Me | Hakkımda
 
-### 🔥 SOC Incident Detection & Response Lab  
-Simulated SSH brute force attack detection and automated defense using Fail2Ban.
+I build hands-on cybersecurity labs and detection-focused projects using real-world attack simulations, log analysis, security monitoring, and SOC workflows.
 
-### 🔍 Linux Security Monitoring Lab  
-Log-based threat detection and suspicious activity analysis on Linux systems.
+Gerçek saldırı simülasyonları, log analizi, güvenlik izleme ve SOC süreçleri kullanarak uygulamalı siber güvenlik laboratuvarları ve detection odaklı projeler geliştiriyorum.
 
-### 🌐 Web Application Security Labs  
-Web vulnerability testing using DVWA, SQL Injection, and Burp Suite.
+My projects mainly focus on:
+Projelerim ağırlıklı olarak şu alanlara odaklanmaktadır:
 
----
-
-## 🧠 Skills | Yetkinlikler
-
-### 🇬🇧 English
-- Linux Security  
-- Log Analysis (auth.log, access.log)  
-- Threat Detection  
-- Fail2Ban Configuration  
-- Basic Incident Response  
-- Web Application Security (DVWA, SQL Injection)
-
-### 🇹🇷 Türkçe
-- Linux Güvenliği  
-- Log Analizi (auth.log, access.log)  
-- Tehdit Tespiti  
-- Fail2Ban Yapılandırması  
-- Temel Incident Response  
-- Web Uygulama Güvenliği (DVWA, SQL Injection)
+- Splunk SIEM
+- Wazuh SIEM
+- SOC Operations
+- Threat Detection
+- Detection Engineering
+- Linux Security
+- Active Directory
+- SSH Brute Force Detection
+- Log Analysis
+- Security Monitoring
+- Incident Investigation
+- MITRE ATT&CK Mapping
+- Attack Simulation Labs
 
 ---
 
-## 🛠 Tools | Araçlar
+## Featured Projects | Öne Çıkan Projeler
 
-- Linux (Ubuntu)
-- Fail2Ban
-- Nginx
-- Burp Suite
+### Splunk SIEM Home Lab
+Professional SIEM environment built using Splunk Enterprise for log collection, monitoring, dashboard analysis, and security event investigation.
+
+Log toplama, monitoring, dashboard analizi ve güvenlik olay incelemesi için Splunk Enterprise kullanılarak oluşturulmuş profesyonel SIEM laboratuvarı.
+
+### Wazuh SOC Home Lab
+SOC-focused monitoring and threat detection environment using Wazuh for event correlation, alert analysis, and log management.
+
+Event correlation, alert analysis ve log yönetimi için Wazuh kullanılan SOC odaklı güvenlik izleme laboratuvarı.
+
+### Active Directory Home Lab
+Windows Server based Active Directory environment including domain services, DNS configuration, domain integration, and security testing.
+
+Domain services, DNS yapılandırması, domain entegrasyonu ve güvenlik testleri içeren Windows Server tabanlı Active Directory laboratuvarı.
+
+### Linux SSH Brute Force Detection Lab
+Linux-based attack detection lab focused on SSH brute-force attacks, failed authentication analysis, and log investigation.
+
+SSH brute-force saldırıları, başarısız authentication analizi ve log incelemesine odaklanan Linux tabanlı detection laboratuvarı.
+
+### Splunk SSH Brute Force Detection Lab
+Splunk detection project using SPL queries, attack visualization dashboards, failed password monitoring, and attacker IP tracking.
+
+SPL sorguları, saldırı görselleştirme dashboardları, failed password monitoring ve attacker IP tracking kullanılan Splunk detection projesi.
+
+---
+
+## Technologies | Teknolojiler
+
+- Splunk Enterprise
+- Wazuh
+- Linux
+- Ubuntu Server
+- Windows Server
+- Active Directory
+- Kali Linux
 - Git & GitHub
+- SIEM Platforms
+- SPL Queries
+- SOC Monitoring
+- Threat Hunting
+- Cybersecurity Homelabs
 
 ---
 
-## 🎯 Goal | Hedef
+## Goals | Hedefler
 
-### 🇬🇧 English
-To become a SOC Analyst and work on real-world cyber attack detection and incident response.
+Currently improving my skills in:
+Şu anda kendimi geliştirdiğim alanlar:
 
-### 🇹🇷 Türkçe
-Gerçek dünya siber saldırılarını tespit eden ve müdahale eden bir SOC Analisti olmak.
+- SOC Analysis
+- Detection Engineering
+- Threat Hunting
+- SIEM Management
+- Incident Response
+- Log Correlation
+- Security Monitoring
+- Blue Team Operations
 
 ---
 
-## 📫 Contact
+## Contact | İletişim
 
-- GitHub: https://github.com/murattkarateke
+GitHub: https://github.com/murattkarateke
+Linkedin: https://www.linkedin.com/in/muratkarateke/
+Mail: muratkarateke157@gmail.com
+
+Cybersecurity journey focused on continuous learning, practical labs, and real-world security operations.
+
+Sürekli öğrenme, uygulamalı laboratuvarlar ve gerçek dünya güvenlik operasyonlarına odaklanan siber güvenlik yolculuğu.
